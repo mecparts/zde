@@ -2,7 +2,7 @@
 
 Using the source code of [VDE
 2.67](http://www.classiccmp.org/cpmarchives/cpm/Software/WalnutCD/enterprs/cpm/utils/s/vde267sc.lbr)
-as a guide, I've reconstituted the source code for ZDE 1.6.
+as a guide, I've reconstituted the source code for [ZDE 1.6](http://www.classiccmp.org/cpmarchives/cpm/Software/WalnutCD/cpm/editor/zde16.lbr).
 
 The source has been assembled with:
 
