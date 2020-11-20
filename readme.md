@@ -9,7 +9,7 @@ The source has been assembled with:
 * Al Hawley's ZMAC: assemble as is.
 * MicroSoft's M80: rename to ZDE16.MAC, un-comment the first two lines
   and assemble. Use RELHEX to create ZDE16.HEX.
-* ZAS< (Cromemco's ASMB): Rename to ZDE16.Z80 and assemble. Use RELHEX
+* ZASM (Cromemco's ASMB): Rename to ZDE16.Z80 and assemble. Use RELHEX
 to create ZDE16.HEX.
 
 Use MLOAD to create ZDE16.COM.
