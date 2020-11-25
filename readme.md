@@ -16,3 +16,10 @@ Use MLOAD to create ZDE16.COM.
 
 There are still a couple of routines new to ZDE that I haven't figured
 out (yet). But most of them have been sussed out.
+
+## ZDE 1.7
+
+I've fixed the "doesn't preserve timestamps for files larger than a
+single extent under ZSDOS" bug that was present in v1.6. The existing
+ZDENST16.COM program will work with the 1.7 to set the program up for
+your terminal and printer.
